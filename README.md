@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 CyberSercurity Projects/Information Technology Projects:</h2>
 
-- <b>Azure / Cloud Projects / Incidents Responce / SEIM / Ingesting logs</b>
+- <b>Azure / Cloud Projects / Incidents Response / SEIM / Ingesting logs</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/hnelson7881/hnelson7881-Azure-Cloud-SOC)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hnelson7881/osticket-prereqs)
